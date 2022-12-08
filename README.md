@@ -12,4 +12,6 @@ VGU-HDA-Clustering-Analysis
     + Normalization, grayscale, ... . 
     + Convert those images into vectors, then append those to a list (easy to do clustering). 
 
-3. Training: 
+3. Image Decorator: 
+
+4. Training: 
